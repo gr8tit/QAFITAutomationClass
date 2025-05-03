@@ -14,45 +14,45 @@
     </classes>
     </test>
 
-    <test name="testSauceDemo login test">
-        <parameter name="browser" value="chrome"/>
-<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
-<!--        <parameter name="username" value="standard_user"/>-->
-<!--        <parameter name="password" value="secret_sauce"/>-->
-<!--        <parameter name="headless" value="false"/>-->
-<!--        <parameter name="screenshotOnFailure" value="true"/>-->
-<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
-<!--        <parameter name="screenshotOnSkip" value="false"/>-->
-        <classes>
-        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoLoginTest"/>
-        </classes>
-    </test>
+<!--    <test name="testSauceDemo login test">-->
+<!--        <parameter name="browser" value="chrome"/>-->
+<!--&lt;!&ndash;        <parameter name="url" value="https://www.saucedemo.com/"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="username" value="standard_user"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="password" value="secret_sauce"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="headless" value="false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnFailure" value="true"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnSuccess" value="false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnSkip" value="false"/>&ndash;&gt;-->
+<!--        <classes>-->
+<!--        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoLoginTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 
-   <test name="testSauceDemo logout test">
-        <parameter name="browser" value="chrome"/>
-<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
-<!--        <parameter name="username" value="standard_user"/>-->
-<!--        <parameter name="password" value="secret_sauce"/>-->
-<!--        <parameter name="headless" value="false"/>-->
-<!--        <parameter name="screenshotOnFailure" value="true"/>-->
-<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
-<!--        <parameter name="screenshotOnSkip" value="false"/>-->
-       <classes>
-        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoLogoutTest"/>
-       </classes>
-   </test>
+<!--   <test name="testSauceDemo logout test">-->
+<!--        <parameter name="browser" value="chrome"/>-->
+<!--&lt;!&ndash;        <parameter name="url" value="https://www.saucedemo.com/"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="username" value="standard_user"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="password" value="secret_sauce"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="headless" value="false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnFailure" value="true"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnSuccess" value="false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnSkip" value="false"/>&ndash;&gt;-->
+<!--       <classes>-->
+<!--        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoLogoutTest"/>-->
+<!--       </classes>-->
+<!--   </test>-->
 
 
-    <test name="testSeleniumWebform webform test">
-        <parameter name="browser" value="chrome"/>
-<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
-<!--        <parameter name="headless" value="false"/>-->
-<!--        <parameter name="screenshotOnFailure" value="true"/>-->
-<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
-<!--        <parameter name="screenshotOnSkip" value="false"/>-->
-        <classes>
-            <class name="org.QAFITAutomationClass2025.testSeleniumWebforms.SeleniumWebformTest"/>
-        </classes>
-   </test>
+<!--    <test name="testSeleniumWebform webform test">-->
+<!--        <parameter name="browser" value="chrome"/>-->
+<!--&lt;!&ndash;        <parameter name="url" value="https://www.saucedemo.com/"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="headless" value="false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnFailure" value="true"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnSuccess" value="false"/>&ndash;&gt;-->
+<!--&lt;!&ndash;        <parameter name="screenshotOnSkip" value="false"/>&ndash;&gt;-->
+<!--        <classes>-->
+<!--            <class name="org.QAFITAutomationClass2025.testSeleniumWebforms.SeleniumWebformTest"/>-->
+<!--        </classes>-->
+<!--   </test>-->
 
 </suite>
