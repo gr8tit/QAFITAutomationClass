@@ -1,0 +1,52 @@
+Detected a static method [org.QAFITAutomationClass2025.TestBase.setUp()]. Static configuration methods can cause unexpected behavior.
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+Detected a static method [org.QAFITAutomationClass2025.TestBase.setUp()]. Static configuration methods can cause unexpected behavior.
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+Setting up the test environment for browser: firefox
+Using geckodriver 0.36.0 (resolved driver for Firefox 137)
+Exporting webdriver.gecko.driver as /Users/temitopeoyedemi/.cache/selenium/geckodriver/mac64/0.36.0/geckodriver
+Login button clicked
+Browser closed successfully.
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+Setting up the test environment for browser: firefox
+Using geckodriver 0.36.0 (resolved driver for Firefox 137)
+Exporting webdriver.gecko.driver as /Users/temitopeoyedemi/.cache/selenium/geckodriver/mac64/0.36.0/geckodriver
+Login button clicked
+Browser closed successfully.
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+Setting up the test environment for browser: firefox
+Using geckodriver 0.36.0 (resolved driver for Firefox 137)
+Exporting webdriver.gecko.driver as /Users/temitopeoyedemi/.cache/selenium/geckodriver/mac64/0.36.0/geckodriver
+Login button clicked
+Browser closed successfully.
+[TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+Setting up the test environment for browser: firefox
+Using geckodriver 0.36.0 (resolved driver for Firefox 137)
+Exporting webdriver.gecko.driver as /Users/temitopeoyedemi/.cache/selenium/geckodriver/mac64/0.36.0/geckodriver
+Checkout page title is: Checkout: Your Information
+Browser closed successfully.

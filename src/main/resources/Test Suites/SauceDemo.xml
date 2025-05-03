@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QAFIT Automation Class 2025">
+    <test name="testSauceDemo Add to Cart">
+        <parameter name="browser" value="chrome"/>
+<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
+<!--        <parameter name="username" value="standard_user"/>-->
+<!--        <parameter name="password" value="secret_sauce"/>-->
+<!--        <parameter name="headless" value="false"/>-->
+<!--        <parameter name="screenshotOnFailure" value="true"/>-->
+<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
+<!--        <parameter name="screenshotOnSkip" value="false"/>-->
+    <classes>
+        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoAddtoCartTest"/>
+    </classes>
+    </test>
+
+    <test name="testSauceDemo login test">
+        <parameter name="browser" value="chrome"/>
+<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
+<!--        <parameter name="username" value="standard_user"/>-->
+<!--        <parameter name="password" value="secret_sauce"/>-->
+<!--        <parameter name="headless" value="false"/>-->
+<!--        <parameter name="screenshotOnFailure" value="true"/>-->
+<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
+<!--        <parameter name="screenshotOnSkip" value="false"/>-->
+        <classes>
+        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoLoginTest"/>
+        </classes>
+    </test>
+
+   <test name="testSauceDemo logout test">
+        <parameter name="browser" value="chrome"/>
+<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
+<!--        <parameter name="username" value="standard_user"/>-->
+<!--        <parameter name="password" value="secret_sauce"/>-->
+<!--        <parameter name="headless" value="false"/>-->
+<!--        <parameter name="screenshotOnFailure" value="true"/>-->
+<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
+<!--        <parameter name="screenshotOnSkip" value="false"/>-->
+       <classes>
+        <class name="org.QAFITAutomationClass2025.testSauceDemo.SauceDemoLogoutTest"/>
+       </classes>
+   </test>
+
+
+    <test name="testSeleniumWebform webform test">
+        <parameter name="browser" value="chrome"/>
+<!--        <parameter name="url" value="https://www.saucedemo.com/"/>-->
+<!--        <parameter name="headless" value="false"/>-->
+<!--        <parameter name="screenshotOnFailure" value="true"/>-->
+<!--        <parameter name="screenshotOnSuccess" value="false"/>-->
+<!--        <parameter name="screenshotOnSkip" value="false"/>-->
+        <classes>
+            <class name="org.QAFITAutomationClass2025.testSeleniumWebforms.SeleniumWebformTest"/>
+        </classes>
+   </test>
+
+</suite>

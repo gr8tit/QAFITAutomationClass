@@ -1,0 +1,13 @@
+2025-04-27 19:50:54.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml"
+2025-04-27 19:50:54.426 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/temitopeoyedemi/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+2025-04-27 19:50:54.475 [main] INFO  org.QAFITAutomationClass2025.TestBase - Setting up the test environment for browser: firefox
+2025-04-27 19:50:54.497 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-04-27 19:50:55.141 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox=137 in cache (valid until 19:15:01 27/04/2025 WAT)
+2025-04-27 19:50:55.147 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution firefox137=0.36.0 in cache (valid until 18:15:01 28/04/2025 WAT)
+2025-04-27 19:50:55.149 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 137)
+2025-04-27 19:50:55.189 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.36.0 found in cache
+2025-04-27 19:50:55.190 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as /Users/temitopeoyedemi/.cache/selenium/geckodriver/mac64/0.36.0/geckodriver
+2025-04-27 19:51:04.193 [main] INFO  org.QAFITAutomationClass2025.TestBase - Checkout page title is: Checkout: Your Information
+2025-04-27 19:51:05.008 [main] INFO  org.QAFITAutomationClass2025.TestBase - Browser closed successfully.
